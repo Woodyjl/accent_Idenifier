@@ -1,2 +1,2 @@
 # accent_Idenifier
-This is a join machine learning project that will hopefully identify you accent.
+This is a joint machine learning project that will hopefully identify your accent.
